@@ -5,7 +5,7 @@ package Testrep;
 
 public class App {
     public String getGreeting() {
-        return "Hello from master.";
+        return "Hello from MANVITHA/DEV.";
     }
 
     public static void main(String[] args) {
